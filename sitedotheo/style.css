@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+body {
+    background-color: #3552A0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+}
+
+header {
+    background-color: white;
+    padding: 10px;
+    border: 10px;
+    outline: 3px solid #32394B;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+nav>ul>li>a {
+    text-decoration: none;
+}
+
+nav>ul>li>a:hover {
+    text-decoration: underline;
+    color: #0041F5;
+}
+
+main {
+    background-color: white;
+    padding: 10px;
+    border: 10px;
+    outline: 3px solid #32394B;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+h1 {
+    color: #0041F5;
+}
+
+h2 {
+    color: #224FCA;
+}
+
+p#texto {
+    background-color: white;
+    padding: 10px;
+    border: 10px;
+    outline: 3px solid #32394B;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px #224FCA;
+}
