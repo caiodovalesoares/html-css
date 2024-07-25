@@ -94,7 +94,7 @@ main a:hover {
     text-decoration: underline;
 }
 
-main img {
+main picture img {
     display: block;
     margin: auto;
     min-width: 250px;
