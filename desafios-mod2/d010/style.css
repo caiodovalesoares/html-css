@@ -97,6 +97,7 @@ main a:hover {
 main img {
     display: block;
     margin: auto;
+    min-width: 300px;
 }
 
 div.video {
